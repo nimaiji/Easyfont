@@ -1,5 +1,7 @@
 # Easyfont
 
+<img src="/screenshot.png" width="250" alt="Screen shot">
+
 ### Import EasyFont into your project and set your fonts files:
 ```java
 /*
@@ -15,7 +17,7 @@ private static String editTextFont = "ArialBoldItalic.ttf";    // if you set thi
 EasyFont easyFont = new EasyFont(this);
 easyFont.changeAllFonts();
 ```
-Done!
+## Done!
 
 ## Extra:
 * Set your element id (R.id.title) to set bold font.
