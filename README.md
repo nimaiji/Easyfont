@@ -15,4 +15,8 @@ private static String editTextFont = "ArialBoldItalic.ttf";    // if you set thi
 EasyFont easyFont = new EasyFont(this);
 easyFont.changeAllFonts();
 ```
-# Done!
+Done!
+
+## Extra:
+* Set your element id (R.id.title) to set bold font.
+* You can set fonts separatly
